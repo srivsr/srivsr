@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @srivsr
-- 👀 I’m interested in Datascience, Blockchain, Automation and Machine Learning.  
-- 🌱 I’m currently learning Python and Block chain. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Gen AI  
+- 🌱 I have build QA-OS, Evalkit and Gen-friend apps.
 
 <!---
 srivsr/srivsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
